@@ -1,0 +1,14 @@
+{
+  "name": "buccaneer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js"
+  },
+  "author": "coffeebank",
+  "license": "GPLv3",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
